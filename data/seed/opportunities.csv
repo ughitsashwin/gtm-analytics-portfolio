@@ -1,201 +1,201 @@
 opportunity_id,account_id,opportunity_name,stage,amount,region,product,created_at,close_date,owner
-OPP-0001,ACC-0065,Oliver-Norton - Starter,Negotiation,25000,APAC,Starter,2026-03-26,2026-04-28,Carla Collier
-OPP-0002,ACC-0070,Curry LLC - Starter,Closed Lost,100000,APAC,Growth,2026-03-26,2026-06-15,James Gibbs
-OPP-0003,ACC-0063,Smith PLC - Growth,Prospecting,25000,EMEA,Starter,2026-03-26,2026-04-17,Cindy Smith
-OPP-0004,ACC-0008,Leach PLC - Starter,Qualification,5000,EMEA,Enterprise,2026-03-26,2026-06-14,Andrew Perez
-OPP-0005,ACC-0063,Smith PLC - Enterprise,Closed Lost,10000,EMEA,Starter,2026-03-26,2026-04-17,Darin Collins
-OPP-0006,ACC-0061,"Garcia, White and Simon - Growth",Negotiation,100000,APAC,Enterprise,2026-03-26,2026-04-24,Christina Cowan
-OPP-0007,ACC-0055,Leon Ltd - Enterprise,Qualification,200000,APAC,Starter,2026-03-26,2026-06-11,Hannah Banks
-OPP-0008,ACC-0040,Moore LLC - Growth,Proposal,50000,APAC,Enterprise,2026-03-26,2026-06-25,Ryan Fuentes
-OPP-0009,ACC-0058,Callahan Ltd - Starter,Prospecting,5000,AMER,Growth,2026-03-26,2026-05-04,Amber Bailey
-OPP-0010,ACC-0003,Hall-Oneill - Starter,Negotiation,100000,EMEA,Starter,2026-03-26,2026-06-12,Cynthia Contreras
-OPP-0011,ACC-0001,Small LLC - Starter,Prospecting,10000,APAC,Starter,2026-03-26,2026-06-22,Tiffany Cunningham
-OPP-0012,ACC-0005,Chapman-Smith - Starter,Closed Lost,100000,APAC,Starter,2026-03-26,2026-05-21,Taylor Davis
-OPP-0013,ACC-0036,Smith Group - Starter,Closed Won,100000,EMEA,Starter,2026-03-26,2026-06-10,Neil Freeman
-OPP-0014,ACC-0074,"Conway, Finley and Anderson - Starter",Negotiation,50000,EMEA,Growth,2026-03-26,2026-06-02,Matthew Wilson
-OPP-0015,ACC-0025,"Rosales, Garcia and Jordan - Enterprise",Prospecting,50000,APAC,Growth,2026-03-26,2026-04-15,Clinton Atkins
-OPP-0016,ACC-0055,Leon Ltd - Enterprise,Proposal,5000,APAC,Enterprise,2026-03-26,2026-06-01,Jaime Silva
-OPP-0017,ACC-0013,"Roman, Matthews and Phillips - Enterprise",Prospecting,25000,AMER,Starter,2026-03-26,2026-05-24,Michael Diaz
-OPP-0018,ACC-0032,Brown-Gates - Enterprise,Qualification,50000,AMER,Starter,2026-03-26,2026-04-27,Randall Barker
-OPP-0019,ACC-0055,Leon Ltd - Growth,Qualification,10000,APAC,Starter,2026-03-26,2026-05-08,Joseph Carroll
-OPP-0020,ACC-0057,"Huber, Miller and Cannon - Starter",Closed Lost,5000,APAC,Enterprise,2026-03-26,2026-06-18,Lorraine Prince
-OPP-0021,ACC-0070,Curry LLC - Starter,Closed Lost,10000,APAC,Starter,2026-03-26,2026-04-10,Mr. Christopher Chavez
-OPP-0022,ACC-0053,Wallace Inc - Starter,Proposal,50000,EMEA,Starter,2026-03-26,2026-06-03,John Smith
-OPP-0023,ACC-0022,Vang and Sons - Growth,Proposal,25000,AMER,Growth,2026-03-26,2026-04-03,Erin Hooper
-OPP-0024,ACC-0037,"Reeves, Lewis and Hoffman - Enterprise",Proposal,200000,AMER,Growth,2026-03-26,2026-06-13,Maria Hernandez
-OPP-0025,ACC-0020,"Davidson, Anderson and Jordan - Starter",Qualification,5000,EMEA,Enterprise,2026-03-26,2026-05-10,Virginia Ward
-OPP-0026,ACC-0070,Curry LLC - Starter,Prospecting,5000,APAC,Enterprise,2026-03-26,2026-05-13,Vanessa Patton
-OPP-0027,ACC-0062,Mendoza-Jackson - Starter,Negotiation,5000,EMEA,Enterprise,2026-03-26,2026-06-09,Corey Nielsen
-OPP-0028,ACC-0011,Robertson-Martinez - Starter,Closed Lost,100000,EMEA,Starter,2026-03-26,2026-05-02,Thomas Allen
-OPP-0029,ACC-0031,Oneill Group - Enterprise,Proposal,10000,EMEA,Enterprise,2026-03-26,2026-04-18,Timothy Chavez
-OPP-0030,ACC-0077,Stewart-Garcia - Starter,Prospecting,50000,APAC,Enterprise,2026-03-26,2026-06-21,Jacob Pena
-OPP-0031,ACC-0075,"Moore, Shelton and Lopez - Growth",Negotiation,25000,AMER,Starter,2026-03-26,2026-06-08,Lauren Hays
-OPP-0032,ACC-0041,"Stewart, Tucker and Peters - Growth",Qualification,10000,APAC,Enterprise,2026-03-26,2026-05-06,William Porter
-OPP-0033,ACC-0039,Hammond LLC - Starter,Proposal,5000,APAC,Growth,2026-03-26,2026-05-13,James Jones
-OPP-0034,ACC-0080,"Castro, Phillips and Gordon - Starter",Negotiation,100000,APAC,Starter,2026-03-26,2026-04-15,Donald Day
-OPP-0035,ACC-0065,Oliver-Norton - Growth,Demo,5000,APAC,Starter,2026-03-26,2026-04-19,Elizabeth Green
-OPP-0036,ACC-0048,Hall Ltd - Growth,Demo,100000,AMER,Enterprise,2026-03-26,2026-04-23,Jason Holland
-OPP-0037,ACC-0039,Hammond LLC - Enterprise,Negotiation,5000,APAC,Enterprise,2026-03-26,2026-06-25,Jeanne Johnson
-OPP-0038,ACC-0071,Kent Group - Starter,Demo,25000,APAC,Starter,2026-03-26,2026-04-16,Danielle Fields
-OPP-0039,ACC-0014,Smith-Green - Starter,Closed Won,25000,AMER,Growth,2026-03-26,2026-06-18,Courtney Olson
-OPP-0040,ACC-0078,"Schmidt, Miranda and Moody - Starter",Qualification,200000,APAC,Enterprise,2026-03-26,2026-05-16,Gary Woodward
-OPP-0041,ACC-0034,Burns-Davis - Growth,Negotiation,5000,AMER,Starter,2026-03-26,2026-06-04,Thomas Greene
-OPP-0042,ACC-0055,Leon Ltd - Starter,Closed Lost,5000,APAC,Growth,2026-03-26,2026-05-14,Jeffrey Salazar
-OPP-0043,ACC-0017,Swanson Ltd - Starter,Closed Won,200000,AMER,Growth,2026-03-26,2026-05-12,Michael Long
-OPP-0044,ACC-0071,Kent Group - Enterprise,Closed Won,5000,APAC,Starter,2026-03-26,2026-06-02,Steven Daniels
-OPP-0045,ACC-0010,"Hobbs, Wong and Hatfield - Enterprise",Closed Won,5000,APAC,Growth,2026-03-26,2026-04-28,Grace Williams
-OPP-0046,ACC-0075,"Moore, Shelton and Lopez - Growth",Negotiation,10000,AMER,Starter,2026-03-26,2026-04-21,Kimberly Harris
-OPP-0047,ACC-0040,Moore LLC - Growth,Demo,10000,APAC,Enterprise,2026-03-26,2026-04-08,Tina Short
-OPP-0048,ACC-0032,Brown-Gates - Growth,Closed Won,100000,AMER,Growth,2026-03-26,2026-04-22,Charles Carrillo
-OPP-0049,ACC-0080,"Castro, Phillips and Gordon - Starter",Closed Won,10000,APAC,Starter,2026-03-26,2026-04-28,Dennis Burgess
-OPP-0050,ACC-0053,Wallace Inc - Enterprise,Prospecting,25000,EMEA,Growth,2026-03-26,2026-04-25,Ronald Tucker
-OPP-0051,ACC-0032,Brown-Gates - Enterprise,Demo,5000,AMER,Growth,2026-03-26,2026-04-23,Darlene Horn
-OPP-0052,ACC-0005,Chapman-Smith - Starter,Closed Lost,10000,APAC,Growth,2026-03-26,2026-06-08,Calvin Leonard
-OPP-0053,ACC-0045,Smith PLC - Starter,Demo,5000,EMEA,Enterprise,2026-03-26,2026-05-02,Brian Aguilar
-OPP-0054,ACC-0025,"Rosales, Garcia and Jordan - Growth",Proposal,5000,APAC,Growth,2026-03-26,2026-05-15,Alexis Nguyen
-OPP-0055,ACC-0045,Smith PLC - Growth,Closed Won,200000,EMEA,Enterprise,2026-03-26,2026-06-13,Allen Adams
-OPP-0056,ACC-0043,Hunter Inc - Growth,Prospecting,10000,AMER,Enterprise,2026-03-26,2026-04-17,Tracy Wilkerson
-OPP-0057,ACC-0034,Burns-Davis - Enterprise,Prospecting,50000,AMER,Growth,2026-03-26,2026-04-16,Yolanda Rodriguez
-OPP-0058,ACC-0041,"Stewart, Tucker and Peters - Enterprise",Proposal,5000,APAC,Growth,2026-03-26,2026-06-19,James Evans
-OPP-0059,ACC-0074,"Conway, Finley and Anderson - Starter",Qualification,200000,EMEA,Growth,2026-03-26,2026-05-05,Tyler Bishop
-OPP-0060,ACC-0001,Small LLC - Enterprise,Negotiation,200000,APAC,Enterprise,2026-03-26,2026-06-10,Matthew Flynn
-OPP-0061,ACC-0026,Herring Group - Starter,Demo,200000,AMER,Growth,2026-03-26,2026-05-28,Christian Price
-OPP-0062,ACC-0080,"Castro, Phillips and Gordon - Enterprise",Demo,25000,APAC,Enterprise,2026-03-26,2026-04-18,Breanna Brady
-OPP-0063,ACC-0040,Moore LLC - Growth,Closed Won,50000,APAC,Enterprise,2026-03-26,2026-05-31,Brent Garza
-OPP-0064,ACC-0038,"Phillips, Brady and Willis - Starter",Negotiation,50000,APAC,Enterprise,2026-03-26,2026-04-19,Vanessa Kent
-OPP-0065,ACC-0049,"Taylor, Bailey and Howard - Starter",Closed Won,100000,EMEA,Enterprise,2026-03-26,2026-07-13,Sandy Hill
-OPP-0066,ACC-0039,Hammond LLC - Starter,Proposal,25000,APAC,Growth,2026-03-26,2026-06-12,Mrs. Rachel Copeland MD
-OPP-0067,ACC-0027,Wells-Delgado - Enterprise,Proposal,200000,APAC,Growth,2026-03-26,2026-06-16,Susan Fitzpatrick
-OPP-0068,ACC-0060,Ho-Hunt - Enterprise,Proposal,10000,EMEA,Enterprise,2026-03-26,2026-05-29,Joseph Hill
-OPP-0069,ACC-0061,"Garcia, White and Simon - Enterprise",Closed Lost,10000,APAC,Enterprise,2026-03-26,2026-07-19,Sara Johnson
-OPP-0070,ACC-0011,Robertson-Martinez - Enterprise,Demo,200000,EMEA,Enterprise,2026-03-26,2026-06-07,Becky Murphy
-OPP-0071,ACC-0043,Hunter Inc - Enterprise,Prospecting,25000,AMER,Starter,2026-03-26,2026-05-03,Aaron Snyder
-OPP-0072,ACC-0026,Herring Group - Starter,Qualification,10000,AMER,Growth,2026-03-26,2026-04-06,Brian Price
-OPP-0073,ACC-0079,"Valdez, Bryant and Banks - Starter",Closed Lost,50000,APAC,Growth,2026-03-26,2026-07-16,Robert Roberts
-OPP-0074,ACC-0074,"Conway, Finley and Anderson - Growth",Qualification,50000,EMEA,Starter,2026-03-26,2026-05-22,Casey Stanley
-OPP-0075,ACC-0019,Brown-Adams - Starter,Closed Won,5000,AMER,Growth,2026-03-26,2026-07-06,Nancy Alvarez
-OPP-0076,ACC-0029,"Bauer, French and Hudson - Growth",Qualification,5000,AMER,Enterprise,2026-03-26,2026-06-08,Kenneth Velasquez
-OPP-0077,ACC-0032,Brown-Gates - Growth,Closed Lost,10000,AMER,Growth,2026-03-26,2026-04-24,John Burns
-OPP-0078,ACC-0068,"Jensen, Morris and Chang - Growth",Negotiation,50000,APAC,Enterprise,2026-03-26,2026-06-18,Jennifer Perry
-OPP-0079,ACC-0065,Oliver-Norton - Growth,Proposal,10000,APAC,Enterprise,2026-03-26,2026-06-12,Charles Snow
-OPP-0080,ACC-0061,"Garcia, White and Simon - Starter",Proposal,200000,APAC,Growth,2026-03-26,2026-05-06,Tammy Chavez
-OPP-0081,ACC-0067,"Mccarthy, Moore and Torres - Starter",Proposal,25000,AMER,Growth,2026-03-26,2026-06-22,Alyssa Wilcox
-OPP-0082,ACC-0010,"Hobbs, Wong and Hatfield - Starter",Closed Won,25000,APAC,Growth,2026-03-26,2026-05-15,Chris Lewis
-OPP-0083,ACC-0041,"Stewart, Tucker and Peters - Starter",Negotiation,10000,APAC,Starter,2026-03-26,2026-04-13,Thomas Cooper
-OPP-0084,ACC-0050,Padilla-Miller - Enterprise,Closed Won,10000,APAC,Starter,2026-03-26,2026-04-28,Joel Ray
-OPP-0085,ACC-0054,"Ferrell, Mitchell and Wood - Enterprise",Proposal,50000,EMEA,Growth,2026-03-26,2026-05-15,Jesse Sanchez
-OPP-0086,ACC-0008,Leach PLC - Growth,Qualification,100000,EMEA,Enterprise,2026-03-26,2026-05-26,Peter Miller
-OPP-0087,ACC-0003,Hall-Oneill - Enterprise,Closed Lost,50000,EMEA,Growth,2026-03-26,2026-07-15,Kristen Carney
-OPP-0088,ACC-0001,Small LLC - Growth,Demo,50000,APAC,Enterprise,2026-03-26,2026-05-11,Valerie Whitaker
-OPP-0089,ACC-0070,Curry LLC - Starter,Closed Lost,50000,APAC,Starter,2026-03-26,2026-06-25,Kristin Romero DVM
-OPP-0090,ACC-0035,"Morris, Norris and Parker - Starter",Proposal,50000,AMER,Growth,2026-03-26,2026-06-04,Diana Nguyen
-OPP-0091,ACC-0052,Garcia-May - Growth,Closed Won,10000,AMER,Enterprise,2026-03-26,2026-04-30,Debra Patton
-OPP-0092,ACC-0069,Montes-Dougherty - Enterprise,Prospecting,100000,APAC,Enterprise,2026-03-26,2026-05-23,Adam Walters
-OPP-0093,ACC-0004,Bennett-Forbes - Growth,Prospecting,10000,EMEA,Growth,2026-03-26,2026-06-24,Seth Benitez
-OPP-0094,ACC-0024,Anderson Group - Growth,Prospecting,25000,APAC,Starter,2026-03-26,2026-05-06,Jason Bird
-OPP-0095,ACC-0059,Jackson-Howard - Growth,Demo,25000,AMER,Growth,2026-03-26,2026-05-16,Brian Lloyd DVM
-OPP-0096,ACC-0033,"Riggs, Morris and Rose - Growth",Closed Lost,5000,EMEA,Enterprise,2026-03-26,2026-04-19,Donald Nelson
-OPP-0097,ACC-0070,Curry LLC - Starter,Prospecting,200000,APAC,Starter,2026-03-26,2026-05-17,Angela Turner PhD
-OPP-0098,ACC-0006,Park-Morrison - Starter,Closed Lost,10000,EMEA,Starter,2026-03-26,2026-04-12,Debra Ford
-OPP-0099,ACC-0080,"Castro, Phillips and Gordon - Starter",Qualification,50000,APAC,Enterprise,2026-03-26,2026-05-03,Yvette Jones
-OPP-0100,ACC-0015,"Mann, Mendoza and Baxter - Growth",Negotiation,200000,AMER,Growth,2026-03-26,2026-04-30,Brittany Riley
-OPP-0101,ACC-0048,Hall Ltd - Enterprise,Qualification,200000,AMER,Enterprise,2026-03-26,2026-06-19,Joseph Mack
-OPP-0102,ACC-0015,"Mann, Mendoza and Baxter - Starter",Closed Lost,25000,AMER,Starter,2026-03-26,2026-07-22,Susan Moore
-OPP-0103,ACC-0075,"Moore, Shelton and Lopez - Enterprise",Prospecting,200000,AMER,Growth,2026-03-26,2026-05-12,Christopher Barnes
-OPP-0104,ACC-0051,"Smith, Jones and Hicks - Starter",Closed Won,100000,EMEA,Enterprise,2026-03-26,2026-05-04,Darlene Mccann
-OPP-0105,ACC-0032,Brown-Gates - Enterprise,Prospecting,100000,AMER,Starter,2026-03-26,2026-05-11,Courtney Cabrera
-OPP-0106,ACC-0073,Paul LLC - Growth,Closed Lost,100000,AMER,Growth,2026-03-26,2026-04-14,Nicholas Woodard
-OPP-0107,ACC-0048,Hall Ltd - Enterprise,Prospecting,25000,AMER,Starter,2026-03-26,2026-06-06,Michael Jackson
-OPP-0108,ACC-0054,"Ferrell, Mitchell and Wood - Starter",Closed Lost,50000,EMEA,Growth,2026-03-26,2026-06-10,Mrs. Brenda French MD
-OPP-0109,ACC-0059,Jackson-Howard - Growth,Closed Won,10000,AMER,Enterprise,2026-03-26,2026-04-28,Christie Mckee
-OPP-0110,ACC-0067,"Mccarthy, Moore and Torres - Enterprise",Closed Won,100000,AMER,Growth,2026-03-26,2026-05-13,Kirsten Chapman
-OPP-0111,ACC-0060,Ho-Hunt - Growth,Proposal,25000,EMEA,Starter,2026-03-26,2026-06-17,Tara Myers
-OPP-0112,ACC-0012,"Dyer, Baker and Hanna - Starter",Demo,50000,EMEA,Enterprise,2026-03-26,2026-05-30,Kimberly Mcdaniel
-OPP-0113,ACC-0079,"Valdez, Bryant and Banks - Growth",Closed Won,5000,APAC,Growth,2026-03-26,2026-05-27,Veronica Allen
-OPP-0114,ACC-0042,Tyler and Sons - Starter,Qualification,25000,EMEA,Growth,2026-03-26,2026-06-04,Pamela Grant
-OPP-0115,ACC-0044,Ferguson-Warren - Enterprise,Demo,25000,APAC,Enterprise,2026-03-26,2026-06-18,Jeffrey Wade
-OPP-0116,ACC-0002,"Harris, Adams and Martinez - Starter",Negotiation,10000,EMEA,Enterprise,2026-03-26,2026-04-27,Amanda Hamilton
-OPP-0117,ACC-0053,Wallace Inc - Starter,Proposal,200000,EMEA,Growth,2026-03-26,2026-06-13,Chelsea Owen
-OPP-0118,ACC-0063,Smith PLC - Starter,Proposal,25000,EMEA,Starter,2026-03-26,2026-04-05,Shelby Macdonald
-OPP-0119,ACC-0052,Garcia-May - Growth,Closed Won,200000,AMER,Enterprise,2026-03-26,2026-05-10,Tracy Chan
-OPP-0120,ACC-0048,Hall Ltd - Enterprise,Proposal,25000,AMER,Growth,2026-03-26,2026-06-12,Linda Lamb
-OPP-0121,ACC-0071,Kent Group - Enterprise,Demo,50000,APAC,Growth,2026-03-26,2026-05-18,Rebecca Parsons
-OPP-0122,ACC-0040,Moore LLC - Starter,Demo,200000,APAC,Starter,2026-03-26,2026-05-02,Mrs. Briana Martinez MD
-OPP-0123,ACC-0041,"Stewart, Tucker and Peters - Enterprise",Prospecting,10000,APAC,Starter,2026-03-26,2026-06-10,Julie Rhodes
-OPP-0124,ACC-0028,Jones Inc - Growth,Closed Won,200000,APAC,Enterprise,2026-03-26,2026-06-09,James Allen
-OPP-0125,ACC-0068,"Jensen, Morris and Chang - Starter",Negotiation,10000,APAC,Growth,2026-03-26,2026-05-09,Destiny Johnson
-OPP-0126,ACC-0030,"Paul, Sanchez and Cox - Growth",Demo,5000,EMEA,Enterprise,2026-03-26,2026-04-25,Johnny Willis
-OPP-0127,ACC-0069,Montes-Dougherty - Starter,Qualification,5000,APAC,Enterprise,2026-03-26,2026-05-08,James Johnson
-OPP-0128,ACC-0038,"Phillips, Brady and Willis - Enterprise",Closed Won,50000,APAC,Starter,2026-03-26,2026-04-25,Kyle Walls
-OPP-0129,ACC-0002,"Harris, Adams and Martinez - Growth",Negotiation,50000,EMEA,Growth,2026-03-26,2026-05-09,Jacqueline Wang
-OPP-0130,ACC-0044,Ferguson-Warren - Growth,Qualification,50000,APAC,Starter,2026-03-26,2026-04-09,Daniel Acosta
-OPP-0131,ACC-0009,Dorsey Group - Starter,Proposal,100000,EMEA,Enterprise,2026-03-26,2026-06-04,Sonya Burton
-OPP-0132,ACC-0007,Acosta and Sons - Enterprise,Qualification,25000,AMER,Starter,2026-03-26,2026-04-22,Kimberly Schaefer
-OPP-0133,ACC-0032,Brown-Gates - Growth,Prospecting,100000,AMER,Enterprise,2026-03-26,2026-06-13,Krystal Hernandez
-OPP-0134,ACC-0080,"Castro, Phillips and Gordon - Growth",Qualification,50000,APAC,Growth,2026-03-26,2026-06-08,Victor Wheeler
-OPP-0135,ACC-0039,Hammond LLC - Growth,Closed Lost,25000,APAC,Enterprise,2026-03-26,2026-06-23,Dr. Joanna Rhodes
-OPP-0136,ACC-0080,"Castro, Phillips and Gordon - Enterprise",Prospecting,5000,APAC,Starter,2026-03-26,2026-06-20,Chad Sexton
-OPP-0137,ACC-0028,Jones Inc - Starter,Demo,10000,APAC,Starter,2026-03-26,2026-04-13,Tina Johnson
-OPP-0138,ACC-0071,Kent Group - Starter,Prospecting,50000,APAC,Growth,2026-03-26,2026-04-23,Emily Dillon
-OPP-0139,ACC-0077,Stewart-Garcia - Starter,Proposal,10000,APAC,Growth,2026-03-26,2026-05-10,Kurt Miller
-OPP-0140,ACC-0037,"Reeves, Lewis and Hoffman - Starter",Closed Won,200000,AMER,Starter,2026-03-26,2026-06-06,Michael Gamble
-OPP-0141,ACC-0034,Burns-Davis - Enterprise,Closed Lost,100000,AMER,Enterprise,2026-03-26,2026-07-19,Jessica Clark
-OPP-0142,ACC-0026,Herring Group - Enterprise,Proposal,10000,AMER,Enterprise,2026-03-26,2026-04-17,Joshua Jordan
-OPP-0143,ACC-0020,"Davidson, Anderson and Jordan - Starter",Demo,5000,EMEA,Starter,2026-03-26,2026-04-21,Patrick Valentine
-OPP-0144,ACC-0040,Moore LLC - Growth,Negotiation,50000,APAC,Starter,2026-03-26,2026-06-14,Jack Jensen
-OPP-0145,ACC-0060,Ho-Hunt - Enterprise,Closed Won,50000,EMEA,Growth,2026-03-26,2026-05-17,Mrs. Sara Owens
-OPP-0146,ACC-0065,Oliver-Norton - Growth,Negotiation,5000,APAC,Enterprise,2026-03-26,2026-06-05,Thomas Ross
-OPP-0147,ACC-0006,Park-Morrison - Enterprise,Proposal,25000,EMEA,Starter,2026-03-26,2026-05-14,Ann Haas
-OPP-0148,ACC-0012,"Dyer, Baker and Hanna - Enterprise",Qualification,5000,EMEA,Enterprise,2026-03-26,2026-06-15,Brian Baker
-OPP-0149,ACC-0035,"Morris, Norris and Parker - Starter",Negotiation,50000,AMER,Enterprise,2026-03-26,2026-04-08,Edward Johnson
-OPP-0150,ACC-0057,"Huber, Miller and Cannon - Enterprise",Demo,50000,APAC,Enterprise,2026-03-26,2026-04-26,Sheila Mckinney
-OPP-0151,ACC-0063,Smith PLC - Growth,Prospecting,50000,EMEA,Growth,2026-03-26,2026-06-02,Lisa Woods
-OPP-0152,ACC-0042,Tyler and Sons - Starter,Closed Won,25000,EMEA,Growth,2026-03-26,2026-04-22,Allison Foster
-OPP-0153,ACC-0064,"Nicholson, Jones and Glass - Enterprise",Demo,5000,APAC,Growth,2026-03-26,2026-05-24,Robert Harris
-OPP-0154,ACC-0012,"Dyer, Baker and Hanna - Growth",Demo,5000,EMEA,Growth,2026-03-26,2026-05-05,Jocelyn Villanueva
-OPP-0155,ACC-0066,Clark-Gutierrez - Enterprise,Closed Lost,100000,APAC,Growth,2026-03-26,2026-04-09,Leslie Williams
-OPP-0156,ACC-0053,Wallace Inc - Enterprise,Prospecting,25000,EMEA,Enterprise,2026-03-26,2026-04-27,Michele Fuller
-OPP-0157,ACC-0064,"Nicholson, Jones and Glass - Starter",Closed Won,10000,APAC,Growth,2026-03-26,2026-06-04,Jeremy Black
-OPP-0158,ACC-0071,Kent Group - Growth,Qualification,200000,APAC,Growth,2026-03-26,2026-05-09,Elizabeth Coleman
-OPP-0159,ACC-0016,"Washington, Harper and Lang - Enterprise",Prospecting,10000,EMEA,Enterprise,2026-03-26,2026-06-22,Donald Johnson
-OPP-0160,ACC-0021,Joseph-Raymond - Starter,Demo,100000,EMEA,Growth,2026-03-26,2026-06-12,Steven Johnson
-OPP-0161,ACC-0012,"Dyer, Baker and Hanna - Growth",Qualification,5000,EMEA,Enterprise,2026-03-26,2026-04-17,Stephanie Brown
-OPP-0162,ACC-0020,"Davidson, Anderson and Jordan - Enterprise",Proposal,200000,EMEA,Growth,2026-03-26,2026-05-10,Gina Mosley
-OPP-0163,ACC-0054,"Ferrell, Mitchell and Wood - Growth",Closed Lost,10000,EMEA,Growth,2026-03-26,2026-06-09,Craig Anderson
-OPP-0164,ACC-0071,Kent Group - Starter,Qualification,100000,APAC,Enterprise,2026-03-26,2026-05-22,Michele Flores
-OPP-0165,ACC-0018,"Smith, Garza and Cohen - Growth",Closed Lost,50000,EMEA,Growth,2026-03-26,2026-04-17,Timothy Arnold
-OPP-0166,ACC-0065,Oliver-Norton - Growth,Demo,200000,APAC,Growth,2026-03-26,2026-04-03,Ariel Taylor
-OPP-0167,ACC-0076,Johnson and Sons - Starter,Negotiation,50000,AMER,Enterprise,2026-03-26,2026-06-04,Suzanne Hernandez
-OPP-0168,ACC-0062,Mendoza-Jackson - Enterprise,Demo,100000,EMEA,Growth,2026-03-26,2026-05-15,Philip Scott
-OPP-0169,ACC-0059,Jackson-Howard - Enterprise,Demo,10000,AMER,Enterprise,2026-03-26,2026-04-27,Sharon Fox
-OPP-0170,ACC-0050,Padilla-Miller - Starter,Qualification,25000,APAC,Enterprise,2026-03-26,2026-05-25,Seth Brown
-OPP-0171,ACC-0061,"Garcia, White and Simon - Growth",Closed Won,50000,APAC,Enterprise,2026-03-26,2026-07-21,Sydney Tucker
-OPP-0172,ACC-0020,"Davidson, Anderson and Jordan - Starter",Proposal,100000,EMEA,Enterprise,2026-03-26,2026-04-07,Erin Roach
-OPP-0173,ACC-0043,Hunter Inc - Growth,Closed Lost,5000,AMER,Enterprise,2026-03-26,2026-04-21,Mr. Jamie Houston Jr.
-OPP-0174,ACC-0059,Jackson-Howard - Growth,Prospecting,200000,AMER,Starter,2026-03-26,2026-04-21,Ryan Williams
-OPP-0175,ACC-0010,"Hobbs, Wong and Hatfield - Growth",Proposal,100000,APAC,Enterprise,2026-03-26,2026-05-06,Teresa Cortez
-OPP-0176,ACC-0051,"Smith, Jones and Hicks - Growth",Closed Won,200000,EMEA,Enterprise,2026-03-26,2026-04-19,Dr. William Ballard MD
-OPP-0177,ACC-0049,"Taylor, Bailey and Howard - Enterprise",Demo,50000,EMEA,Enterprise,2026-03-26,2026-06-22,Laura Meyers
-OPP-0178,ACC-0005,Chapman-Smith - Starter,Negotiation,200000,APAC,Enterprise,2026-03-26,2026-04-11,Gabriela Hodge
-OPP-0179,ACC-0037,"Reeves, Lewis and Hoffman - Growth",Qualification,5000,AMER,Enterprise,2026-03-26,2026-04-14,Sarah Torres
-OPP-0180,ACC-0013,"Roman, Matthews and Phillips - Enterprise",Proposal,25000,AMER,Starter,2026-03-26,2026-04-24,Nancy Rodriguez
-OPP-0181,ACC-0006,Park-Morrison - Growth,Demo,25000,EMEA,Growth,2026-03-26,2026-04-10,Rodney Walker
-OPP-0182,ACC-0056,Black Inc - Enterprise,Qualification,50000,APAC,Enterprise,2026-03-26,2026-05-04,Natalie Jenkins
-OPP-0183,ACC-0024,Anderson Group - Starter,Qualification,100000,APAC,Growth,2026-03-26,2026-04-25,Tina Keith
-OPP-0184,ACC-0080,"Castro, Phillips and Gordon - Growth",Closed Won,100000,APAC,Starter,2026-03-26,2026-05-09,Lisa Lewis
-OPP-0185,ACC-0030,"Paul, Sanchez and Cox - Growth",Proposal,50000,EMEA,Growth,2026-03-26,2026-06-23,Jason Becker
-OPP-0186,ACC-0002,"Harris, Adams and Martinez - Growth",Closed Lost,200000,EMEA,Enterprise,2026-03-26,2026-06-07,Ronald Nelson
-OPP-0187,ACC-0021,Joseph-Raymond - Growth,Prospecting,100000,EMEA,Growth,2026-03-26,2026-05-29,Edgar Weber
-OPP-0188,ACC-0055,Leon Ltd - Growth,Closed Won,25000,APAC,Starter,2026-03-26,2026-05-11,Cody Schmidt
-OPP-0189,ACC-0050,Padilla-Miller - Starter,Closed Lost,10000,APAC,Growth,2026-03-26,2026-06-09,Roger Bray
-OPP-0190,ACC-0074,"Conway, Finley and Anderson - Growth",Demo,200000,EMEA,Growth,2026-03-26,2026-06-15,Jeremy Beck
-OPP-0191,ACC-0003,Hall-Oneill - Growth,Closed Lost,25000,EMEA,Starter,2026-03-26,2026-07-02,Anthony Smith
-OPP-0192,ACC-0073,Paul LLC - Enterprise,Closed Lost,5000,AMER,Enterprise,2026-03-26,2026-07-05,David Bonilla
-OPP-0193,ACC-0064,"Nicholson, Jones and Glass - Starter",Closed Lost,100000,APAC,Growth,2026-03-26,2026-05-15,Mark Walker
-OPP-0194,ACC-0029,"Bauer, French and Hudson - Enterprise",Closed Won,25000,AMER,Enterprise,2026-03-26,2026-05-03,Amy Miller
-OPP-0195,ACC-0018,"Smith, Garza and Cohen - Enterprise",Closed Won,200000,EMEA,Starter,2026-03-26,2026-04-21,Stephen Mcknight
-OPP-0196,ACC-0040,Moore LLC - Starter,Closed Lost,100000,APAC,Growth,2026-03-26,2026-06-04,John Perkins
-OPP-0197,ACC-0017,Swanson Ltd - Growth,Prospecting,200000,AMER,Growth,2026-03-26,2026-05-10,Terry Ramirez
-OPP-0198,ACC-0023,Carter-Jones - Enterprise,Qualification,25000,AMER,Enterprise,2026-03-26,2026-04-19,Thomas Benton
-OPP-0199,ACC-0065,Oliver-Norton - Growth,Demo,50000,APAC,Growth,2026-03-26,2026-04-24,Cynthia Roberts
-OPP-0200,ACC-0044,Ferguson-Warren - Growth,Closed Lost,5000,APAC,Starter,2026-03-26,2026-04-23,Tyler King
+OPP-0001,ACC-0065,Fleming PLC - Starter,Negotiation,25000,APAC,Starter,2026-03-26,2026-04-28,Gary Francis
+OPP-0002,ACC-0070,Young Group - Starter,Closed Lost,100000,APAC,Growth,2026-03-26,2026-06-15,Erik Glenn
+OPP-0003,ACC-0063,"Martinez, Hill and Harmon - Growth",Prospecting,25000,EMEA,Starter,2026-03-26,2026-04-17,Stacey Jones
+OPP-0004,ACC-0008,Taylor Inc - Starter,Qualification,5000,EMEA,Enterprise,2026-03-26,2026-06-14,Julie Ali
+OPP-0005,ACC-0063,"Martinez, Hill and Harmon - Enterprise",Closed Lost,10000,EMEA,Starter,2026-03-26,2026-04-17,Crystal Calhoun
+OPP-0006,ACC-0061,"Smith, Palmer and Williams - Growth",Negotiation,100000,APAC,Enterprise,2026-03-26,2026-04-24,Brian Ford
+OPP-0007,ACC-0055,"Durham, Cook and Wood - Enterprise",Qualification,200000,APAC,Starter,2026-03-26,2026-06-11,Karen Johnson
+OPP-0008,ACC-0040,Gardner-Terry - Growth,Proposal,50000,APAC,Enterprise,2026-03-26,2026-06-25,Jared Lindsey
+OPP-0009,ACC-0058,White-Choi - Starter,Prospecting,5000,AMER,Growth,2026-03-26,2026-05-04,Diane Barnes
+OPP-0010,ACC-0003,Wilson Group - Starter,Negotiation,100000,EMEA,Starter,2026-03-26,2026-06-12,Dr. Paula Macias DDS
+OPP-0011,ACC-0001,Donovan-Leon - Starter,Prospecting,10000,APAC,Starter,2026-03-26,2026-06-22,Randy Wolfe
+OPP-0012,ACC-0005,"Johnson, Johnston and Rodriguez - Starter",Closed Lost,100000,APAC,Starter,2026-03-26,2026-05-21,Jesus Smith
+OPP-0013,ACC-0036,Mckee-Ruiz - Starter,Closed Won,100000,EMEA,Starter,2026-03-26,2026-06-10,Eric Espinoza
+OPP-0014,ACC-0074,Williams-Mora - Starter,Negotiation,50000,EMEA,Growth,2026-03-26,2026-06-02,Brooke Phillips
+OPP-0015,ACC-0025,Allen-Ramsey - Enterprise,Prospecting,50000,APAC,Growth,2026-03-26,2026-04-15,Eric Cook
+OPP-0016,ACC-0055,"Durham, Cook and Wood - Enterprise",Proposal,5000,APAC,Enterprise,2026-03-26,2026-06-01,Ashley Bailey
+OPP-0017,ACC-0013,Rodriguez-Wilson - Enterprise,Prospecting,25000,AMER,Starter,2026-03-26,2026-05-24,James Lawson
+OPP-0018,ACC-0032,"Vargas, Cox and Young - Enterprise",Qualification,50000,AMER,Starter,2026-03-26,2026-04-27,Sheri Evans
+OPP-0019,ACC-0055,"Durham, Cook and Wood - Growth",Qualification,10000,APAC,Starter,2026-03-26,2026-05-08,Taylor Wong
+OPP-0020,ACC-0057,Arnold-Williams - Starter,Closed Lost,5000,APAC,Enterprise,2026-03-26,2026-06-18,Carla Lane
+OPP-0021,ACC-0070,Young Group - Starter,Closed Lost,10000,APAC,Starter,2026-03-26,2026-04-10,Amy Hernandez
+OPP-0022,ACC-0053,"Fields, Sanchez and Hernandez - Starter",Proposal,50000,EMEA,Starter,2026-03-26,2026-06-03,Kelly Turner
+OPP-0023,ACC-0022,Garcia-Brown - Growth,Proposal,25000,AMER,Growth,2026-03-26,2026-04-03,Faith Watts
+OPP-0024,ACC-0037,"Gonzales, Edwards and Smith - Enterprise",Proposal,200000,AMER,Growth,2026-03-26,2026-06-13,Miss Melissa Carter
+OPP-0025,ACC-0020,Taylor-Cruz - Starter,Qualification,5000,EMEA,Enterprise,2026-03-26,2026-05-10,Deborah Massey
+OPP-0026,ACC-0070,Young Group - Starter,Prospecting,5000,APAC,Enterprise,2026-03-26,2026-05-13,Heather Berger
+OPP-0027,ACC-0062,Riley-Ramirez - Starter,Negotiation,5000,EMEA,Enterprise,2026-03-26,2026-06-09,Valerie Wu
+OPP-0028,ACC-0011,"Kelly, Johnson and Cameron - Starter",Closed Lost,100000,EMEA,Starter,2026-03-26,2026-05-02,Nicholas Hunt
+OPP-0029,ACC-0031,Davis-Owens - Enterprise,Proposal,10000,EMEA,Enterprise,2026-03-26,2026-04-18,Blake West
+OPP-0030,ACC-0077,"Crane, Cannon and Fitzgerald - Starter",Prospecting,50000,APAC,Enterprise,2026-03-26,2026-06-21,Stacey Glenn
+OPP-0031,ACC-0075,"Morgan, Jarvis and Diaz - Growth",Negotiation,25000,AMER,Starter,2026-03-26,2026-06-08,Maria Flores
+OPP-0032,ACC-0041,"Brown, Price and Stark - Growth",Qualification,10000,APAC,Enterprise,2026-03-26,2026-05-06,Jason Wall
+OPP-0033,ACC-0039,Reyes-Johnston - Starter,Proposal,5000,APAC,Growth,2026-03-26,2026-05-13,Dylan Rogers
+OPP-0034,ACC-0080,Davis Inc - Starter,Negotiation,100000,APAC,Starter,2026-03-26,2026-04-15,Jose Miller
+OPP-0035,ACC-0065,Fleming PLC - Growth,Demo,5000,APAC,Starter,2026-03-26,2026-04-19,Jack Porter
+OPP-0036,ACC-0048,"Farrell, Neal and Gomez - Growth",Demo,100000,AMER,Enterprise,2026-03-26,2026-04-23,Brittney Turner
+OPP-0037,ACC-0039,Reyes-Johnston - Enterprise,Negotiation,5000,APAC,Enterprise,2026-03-26,2026-06-25,David Dominguez
+OPP-0038,ACC-0071,"Barnett, Walsh and Medina - Starter",Demo,25000,APAC,Starter,2026-03-26,2026-04-16,Kayla Turner
+OPP-0039,ACC-0014,Green-Burns - Starter,Closed Won,25000,AMER,Growth,2026-03-26,2026-06-18,Brad Price
+OPP-0040,ACC-0078,Callahan and Sons - Starter,Qualification,200000,APAC,Enterprise,2026-03-26,2026-05-16,Julie Mcintyre
+OPP-0041,ACC-0034,Walker-Burke - Growth,Negotiation,5000,AMER,Starter,2026-03-26,2026-06-04,Kimberly Stokes
+OPP-0042,ACC-0055,"Durham, Cook and Wood - Starter",Closed Lost,5000,APAC,Growth,2026-03-26,2026-05-14,John Lucas
+OPP-0043,ACC-0017,Johnson-Johnson - Starter,Closed Won,200000,AMER,Growth,2026-03-26,2026-05-12,Traci Frank
+OPP-0044,ACC-0071,"Barnett, Walsh and Medina - Enterprise",Closed Won,5000,APAC,Starter,2026-03-26,2026-06-02,Melissa Moses
+OPP-0045,ACC-0010,Jimenez Group - Enterprise,Closed Won,5000,APAC,Growth,2026-03-26,2026-04-28,Christopher Coleman
+OPP-0046,ACC-0075,"Morgan, Jarvis and Diaz - Growth",Negotiation,10000,AMER,Starter,2026-03-26,2026-04-21,Anna White
+OPP-0047,ACC-0040,Gardner-Terry - Growth,Demo,10000,APAC,Enterprise,2026-03-26,2026-04-08,Charles Richmond
+OPP-0048,ACC-0032,"Vargas, Cox and Young - Growth",Closed Won,100000,AMER,Growth,2026-03-26,2026-04-22,Alec Dennis
+OPP-0049,ACC-0080,Davis Inc - Starter,Closed Won,10000,APAC,Starter,2026-03-26,2026-04-28,Dennis Miller
+OPP-0050,ACC-0053,"Fields, Sanchez and Hernandez - Enterprise",Prospecting,25000,EMEA,Growth,2026-03-26,2026-04-25,Howard Bell
+OPP-0051,ACC-0032,"Vargas, Cox and Young - Enterprise",Demo,5000,AMER,Growth,2026-03-26,2026-04-23,Christopher Johnson
+OPP-0052,ACC-0005,"Johnson, Johnston and Rodriguez - Starter",Closed Lost,10000,APAC,Growth,2026-03-26,2026-06-08,Wayne Long
+OPP-0053,ACC-0045,Reese-Parker - Starter,Demo,5000,EMEA,Enterprise,2026-03-26,2026-05-02,Eric Frazier
+OPP-0054,ACC-0025,Allen-Ramsey - Growth,Proposal,5000,APAC,Growth,2026-03-26,2026-05-15,Sarah White
+OPP-0055,ACC-0045,Reese-Parker - Growth,Closed Won,200000,EMEA,Enterprise,2026-03-26,2026-06-13,Jacob Watson
+OPP-0056,ACC-0043,Gray Group - Growth,Prospecting,10000,AMER,Enterprise,2026-03-26,2026-04-17,Stephanie Calderon
+OPP-0057,ACC-0034,Walker-Burke - Enterprise,Prospecting,50000,AMER,Growth,2026-03-26,2026-04-16,Jack Wallace
+OPP-0058,ACC-0041,"Brown, Price and Stark - Enterprise",Proposal,5000,APAC,Growth,2026-03-26,2026-06-19,Richard Richard
+OPP-0059,ACC-0074,Williams-Mora - Starter,Qualification,200000,EMEA,Growth,2026-03-26,2026-05-05,Brenda Hurst
+OPP-0060,ACC-0001,Donovan-Leon - Enterprise,Negotiation,200000,APAC,Enterprise,2026-03-26,2026-06-10,Michael Howard
+OPP-0061,ACC-0026,Brown Ltd - Starter,Demo,200000,AMER,Growth,2026-03-26,2026-05-28,Julie Lopez
+OPP-0062,ACC-0080,Davis Inc - Enterprise,Demo,25000,APAC,Enterprise,2026-03-26,2026-04-18,Mary Webb
+OPP-0063,ACC-0040,Gardner-Terry - Growth,Closed Won,50000,APAC,Enterprise,2026-03-26,2026-05-31,Andrew Phillips
+OPP-0064,ACC-0038,"Chavez, Mclaughlin and Davis - Starter",Negotiation,50000,APAC,Enterprise,2026-03-26,2026-04-19,Ryan Mcdonald
+OPP-0065,ACC-0049,Burke Ltd - Starter,Closed Won,100000,EMEA,Enterprise,2026-03-26,2026-07-13,Ashley Newton
+OPP-0066,ACC-0039,Reyes-Johnston - Starter,Proposal,25000,APAC,Growth,2026-03-26,2026-06-12,Melissa Reed
+OPP-0067,ACC-0027,Williams Ltd - Enterprise,Proposal,200000,APAC,Growth,2026-03-26,2026-06-16,Jason Schaefer
+OPP-0068,ACC-0060,Howard Ltd - Enterprise,Proposal,10000,EMEA,Enterprise,2026-03-26,2026-05-29,Laura Reyes
+OPP-0069,ACC-0061,"Smith, Palmer and Williams - Enterprise",Closed Lost,10000,APAC,Enterprise,2026-03-26,2026-07-19,Megan Scott
+OPP-0070,ACC-0011,"Kelly, Johnson and Cameron - Enterprise",Demo,200000,EMEA,Enterprise,2026-03-26,2026-06-07,Allison Allen
+OPP-0071,ACC-0043,Gray Group - Enterprise,Prospecting,25000,AMER,Starter,2026-03-26,2026-05-03,Mary Molina
+OPP-0072,ACC-0026,Brown Ltd - Starter,Qualification,10000,AMER,Growth,2026-03-26,2026-04-06,John Garcia
+OPP-0073,ACC-0079,Patel LLC - Starter,Closed Lost,50000,APAC,Growth,2026-03-26,2026-07-16,Steven Larson
+OPP-0074,ACC-0074,Williams-Mora - Growth,Qualification,50000,EMEA,Starter,2026-03-26,2026-05-22,Christine Martinez
+OPP-0075,ACC-0019,"Richardson, Leonard and Sanders - Starter",Closed Won,5000,AMER,Growth,2026-03-26,2026-07-06,Scott Ibarra
+OPP-0076,ACC-0029,"Miller, Williams and Herrera - Growth",Qualification,5000,AMER,Enterprise,2026-03-26,2026-06-08,Edward Carr
+OPP-0077,ACC-0032,"Vargas, Cox and Young - Growth",Closed Lost,10000,AMER,Growth,2026-03-26,2026-04-24,Brian Swanson
+OPP-0078,ACC-0068,"Jackson, Hernandez and Allen - Growth",Negotiation,50000,APAC,Enterprise,2026-03-26,2026-06-18,Sarah Young
+OPP-0079,ACC-0065,Fleming PLC - Growth,Proposal,10000,APAC,Enterprise,2026-03-26,2026-06-12,Lauren Scott
+OPP-0080,ACC-0061,"Smith, Palmer and Williams - Starter",Proposal,200000,APAC,Growth,2026-03-26,2026-05-06,Lisa Cook
+OPP-0081,ACC-0067,Perez Group - Starter,Proposal,25000,AMER,Growth,2026-03-26,2026-06-22,Stephen Ramirez
+OPP-0082,ACC-0010,Jimenez Group - Starter,Closed Won,25000,APAC,Growth,2026-03-26,2026-05-15,Steven Gentry
+OPP-0083,ACC-0041,"Brown, Price and Stark - Starter",Negotiation,10000,APAC,Starter,2026-03-26,2026-04-13,Nicole Walker
+OPP-0084,ACC-0050,Herrera-Long - Enterprise,Closed Won,10000,APAC,Starter,2026-03-26,2026-04-28,James King
+OPP-0085,ACC-0054,Allen Inc - Enterprise,Proposal,50000,EMEA,Growth,2026-03-26,2026-05-15,Ruth Hayes
+OPP-0086,ACC-0008,Taylor Inc - Growth,Qualification,100000,EMEA,Enterprise,2026-03-26,2026-05-26,Laurie Johnson
+OPP-0087,ACC-0003,Wilson Group - Enterprise,Closed Lost,50000,EMEA,Growth,2026-03-26,2026-07-15,Mark Bishop
+OPP-0088,ACC-0001,Donovan-Leon - Growth,Demo,50000,APAC,Enterprise,2026-03-26,2026-05-11,Jean Chandler
+OPP-0089,ACC-0070,Young Group - Starter,Closed Lost,50000,APAC,Starter,2026-03-26,2026-06-25,Ryan Santiago
+OPP-0090,ACC-0035,Rodriguez LLC - Starter,Proposal,50000,AMER,Growth,2026-03-26,2026-06-04,Kimberly Martin
+OPP-0091,ACC-0052,Murillo PLC - Growth,Closed Won,10000,AMER,Enterprise,2026-03-26,2026-04-30,Gregory Stone
+OPP-0092,ACC-0069,"Zimmerman, Velez and Brown - Enterprise",Prospecting,100000,APAC,Enterprise,2026-03-26,2026-05-23,Janice Hudson
+OPP-0093,ACC-0004,Lawson Group - Growth,Prospecting,10000,EMEA,Growth,2026-03-26,2026-06-24,Jason Harris
+OPP-0094,ACC-0024,Rojas LLC - Growth,Prospecting,25000,APAC,Starter,2026-03-26,2026-05-06,Leonard Rocha
+OPP-0095,ACC-0059,Dunn and Sons - Growth,Demo,25000,AMER,Growth,2026-03-26,2026-05-16,Kayla Bullock
+OPP-0096,ACC-0033,Moreno-Cox - Growth,Closed Lost,5000,EMEA,Enterprise,2026-03-26,2026-04-19,Sara Garcia
+OPP-0097,ACC-0070,Young Group - Starter,Prospecting,200000,APAC,Starter,2026-03-26,2026-05-17,Michael Cross
+OPP-0098,ACC-0006,"Graves, Schneider and Copeland - Starter",Closed Lost,10000,EMEA,Starter,2026-03-26,2026-04-12,Dylan Wilson
+OPP-0099,ACC-0080,Davis Inc - Starter,Qualification,50000,APAC,Enterprise,2026-03-26,2026-05-03,Randy Hicks
+OPP-0100,ACC-0015,Foster-George - Growth,Negotiation,200000,AMER,Growth,2026-03-26,2026-04-30,Marie Lewis
+OPP-0101,ACC-0048,"Farrell, Neal and Gomez - Enterprise",Qualification,200000,AMER,Enterprise,2026-03-26,2026-06-19,Mallory Rowe
+OPP-0102,ACC-0015,Foster-George - Starter,Closed Lost,25000,AMER,Starter,2026-03-26,2026-07-22,Jason Murphy
+OPP-0103,ACC-0075,"Morgan, Jarvis and Diaz - Enterprise",Prospecting,200000,AMER,Growth,2026-03-26,2026-05-12,Angela Romero
+OPP-0104,ACC-0051,Jones-Johnson - Starter,Closed Won,100000,EMEA,Enterprise,2026-03-26,2026-05-04,Lisa Shelton
+OPP-0105,ACC-0032,"Vargas, Cox and Young - Enterprise",Prospecting,100000,AMER,Starter,2026-03-26,2026-05-11,Mackenzie Buck
+OPP-0106,ACC-0073,"Hernandez, Manning and Hanson - Growth",Closed Lost,100000,AMER,Growth,2026-03-26,2026-04-14,Brenda Clark
+OPP-0107,ACC-0048,"Farrell, Neal and Gomez - Enterprise",Prospecting,25000,AMER,Starter,2026-03-26,2026-06-06,Danny Burke
+OPP-0108,ACC-0054,Allen Inc - Starter,Closed Lost,50000,EMEA,Growth,2026-03-26,2026-06-10,Timothy Young
+OPP-0109,ACC-0059,Dunn and Sons - Growth,Closed Won,10000,AMER,Enterprise,2026-03-26,2026-04-28,Kevin Murphy
+OPP-0110,ACC-0067,Perez Group - Enterprise,Closed Won,100000,AMER,Growth,2026-03-26,2026-05-13,Julie Moore
+OPP-0111,ACC-0060,Howard Ltd - Growth,Proposal,25000,EMEA,Starter,2026-03-26,2026-06-17,Brent Wolfe
+OPP-0112,ACC-0012,"Wilson, Dickerson and Aguilar - Starter",Demo,50000,EMEA,Enterprise,2026-03-26,2026-05-30,Ebony Robinson
+OPP-0113,ACC-0079,Patel LLC - Growth,Closed Won,5000,APAC,Growth,2026-03-26,2026-05-27,Larry Lee
+OPP-0114,ACC-0042,Smith-Russell - Starter,Qualification,25000,EMEA,Growth,2026-03-26,2026-06-04,Martha Morgan
+OPP-0115,ACC-0044,"Cook, Williams and Taylor - Enterprise",Demo,25000,APAC,Enterprise,2026-03-26,2026-06-18,Patrick Bryant
+OPP-0116,ACC-0002,Campos-Blair - Starter,Negotiation,10000,EMEA,Enterprise,2026-03-26,2026-04-27,Karen Smith
+OPP-0117,ACC-0053,"Fields, Sanchez and Hernandez - Starter",Proposal,200000,EMEA,Growth,2026-03-26,2026-06-13,Michele Vang
+OPP-0118,ACC-0063,"Martinez, Hill and Harmon - Starter",Proposal,25000,EMEA,Starter,2026-03-26,2026-04-05,John Moore
+OPP-0119,ACC-0052,Murillo PLC - Growth,Closed Won,200000,AMER,Enterprise,2026-03-26,2026-05-10,Ryan Lee
+OPP-0120,ACC-0048,"Farrell, Neal and Gomez - Enterprise",Proposal,25000,AMER,Growth,2026-03-26,2026-06-12,Gary Bryan
+OPP-0121,ACC-0071,"Barnett, Walsh and Medina - Enterprise",Demo,50000,APAC,Growth,2026-03-26,2026-05-18,Brian Edwards
+OPP-0122,ACC-0040,Gardner-Terry - Starter,Demo,200000,APAC,Starter,2026-03-26,2026-05-02,Christopher Taylor
+OPP-0123,ACC-0041,"Brown, Price and Stark - Enterprise",Prospecting,10000,APAC,Starter,2026-03-26,2026-06-10,Joshua Norman
+OPP-0124,ACC-0028,"Smith, Mclaughlin and Smith - Growth",Closed Won,200000,APAC,Enterprise,2026-03-26,2026-06-09,George Gonzalez
+OPP-0125,ACC-0068,"Jackson, Hernandez and Allen - Starter",Negotiation,10000,APAC,Growth,2026-03-26,2026-05-09,Matthew Patrick
+OPP-0126,ACC-0030,"Cruz, Jackson and Walls - Growth",Demo,5000,EMEA,Enterprise,2026-03-26,2026-04-25,Elizabeth Turner
+OPP-0127,ACC-0069,"Zimmerman, Velez and Brown - Starter",Qualification,5000,APAC,Enterprise,2026-03-26,2026-05-08,Lauren Moore
+OPP-0128,ACC-0038,"Chavez, Mclaughlin and Davis - Enterprise",Closed Won,50000,APAC,Starter,2026-03-26,2026-04-25,Mary Edwards
+OPP-0129,ACC-0002,Campos-Blair - Growth,Negotiation,50000,EMEA,Growth,2026-03-26,2026-05-09,Billy Kelley
+OPP-0130,ACC-0044,"Cook, Williams and Taylor - Growth",Qualification,50000,APAC,Starter,2026-03-26,2026-04-09,Gary Hawkins
+OPP-0131,ACC-0009,Delgado Inc - Starter,Proposal,100000,EMEA,Enterprise,2026-03-26,2026-06-04,Christopher Villarreal
+OPP-0132,ACC-0007,Gross Group - Enterprise,Qualification,25000,AMER,Starter,2026-03-26,2026-04-22,Rebecca Thomas
+OPP-0133,ACC-0032,"Vargas, Cox and Young - Growth",Prospecting,100000,AMER,Enterprise,2026-03-26,2026-06-13,William Walters DDS
+OPP-0134,ACC-0080,Davis Inc - Growth,Qualification,50000,APAC,Growth,2026-03-26,2026-06-08,Michelle Meyer
+OPP-0135,ACC-0039,Reyes-Johnston - Growth,Closed Lost,25000,APAC,Enterprise,2026-03-26,2026-06-23,Jose Alvarez
+OPP-0136,ACC-0080,Davis Inc - Enterprise,Prospecting,5000,APAC,Starter,2026-03-26,2026-06-20,Jacob Gonzalez
+OPP-0137,ACC-0028,"Smith, Mclaughlin and Smith - Starter",Demo,10000,APAC,Starter,2026-03-26,2026-04-13,Sarah Dean
+OPP-0138,ACC-0071,"Barnett, Walsh and Medina - Starter",Prospecting,50000,APAC,Growth,2026-03-26,2026-04-23,Eric Torres
+OPP-0139,ACC-0077,"Crane, Cannon and Fitzgerald - Starter",Proposal,10000,APAC,Growth,2026-03-26,2026-05-10,Xavier Alexander
+OPP-0140,ACC-0037,"Gonzales, Edwards and Smith - Starter",Closed Won,200000,AMER,Starter,2026-03-26,2026-06-06,Jessica Blankenship
+OPP-0141,ACC-0034,Walker-Burke - Enterprise,Closed Lost,100000,AMER,Enterprise,2026-03-26,2026-07-19,Douglas Cruz
+OPP-0142,ACC-0026,Brown Ltd - Enterprise,Proposal,10000,AMER,Enterprise,2026-03-26,2026-04-17,Jesse Randall
+OPP-0143,ACC-0020,Taylor-Cruz - Starter,Demo,5000,EMEA,Starter,2026-03-26,2026-04-21,Arthur Reyes
+OPP-0144,ACC-0040,Gardner-Terry - Growth,Negotiation,50000,APAC,Starter,2026-03-26,2026-06-14,Jonathan Garrison
+OPP-0145,ACC-0060,Howard Ltd - Enterprise,Closed Won,50000,EMEA,Growth,2026-03-26,2026-05-17,Tiffany Adams
+OPP-0146,ACC-0065,Fleming PLC - Growth,Negotiation,5000,APAC,Enterprise,2026-03-26,2026-06-05,Jeffery Petersen
+OPP-0147,ACC-0006,"Graves, Schneider and Copeland - Enterprise",Proposal,25000,EMEA,Starter,2026-03-26,2026-05-14,Hannah Solomon
+OPP-0148,ACC-0012,"Wilson, Dickerson and Aguilar - Enterprise",Qualification,5000,EMEA,Enterprise,2026-03-26,2026-06-15,Yolanda Richardson
+OPP-0149,ACC-0035,Rodriguez LLC - Starter,Negotiation,50000,AMER,Enterprise,2026-03-26,2026-04-08,Mary Carey
+OPP-0150,ACC-0057,Arnold-Williams - Enterprise,Demo,50000,APAC,Enterprise,2026-03-26,2026-04-26,Jacob Serrano
+OPP-0151,ACC-0063,"Martinez, Hill and Harmon - Growth",Prospecting,50000,EMEA,Growth,2026-03-26,2026-06-02,Richard Reed
+OPP-0152,ACC-0042,Smith-Russell - Starter,Closed Won,25000,EMEA,Growth,2026-03-26,2026-04-22,Colton Blake
+OPP-0153,ACC-0064,Holden-Cooley - Enterprise,Demo,5000,APAC,Growth,2026-03-26,2026-05-24,Andrea Payne
+OPP-0154,ACC-0012,"Wilson, Dickerson and Aguilar - Growth",Demo,5000,EMEA,Growth,2026-03-26,2026-05-05,Michael Hawkins
+OPP-0155,ACC-0066,West-Anderson - Enterprise,Closed Lost,100000,APAC,Growth,2026-03-26,2026-04-09,Norman White
+OPP-0156,ACC-0053,"Fields, Sanchez and Hernandez - Enterprise",Prospecting,25000,EMEA,Enterprise,2026-03-26,2026-04-27,Christopher Henderson
+OPP-0157,ACC-0064,Holden-Cooley - Starter,Closed Won,10000,APAC,Growth,2026-03-26,2026-06-04,Thomas Higgins
+OPP-0158,ACC-0071,"Barnett, Walsh and Medina - Growth",Qualification,200000,APAC,Growth,2026-03-26,2026-05-09,Derrick Wright
+OPP-0159,ACC-0016,Mathews Group - Enterprise,Prospecting,10000,EMEA,Enterprise,2026-03-26,2026-06-22,Shawn Skinner
+OPP-0160,ACC-0021,Gilmore-Phillips - Starter,Demo,100000,EMEA,Growth,2026-03-26,2026-06-12,Geoffrey Fox
+OPP-0161,ACC-0012,"Wilson, Dickerson and Aguilar - Growth",Qualification,5000,EMEA,Enterprise,2026-03-26,2026-04-17,Ricardo Thompson
+OPP-0162,ACC-0020,Taylor-Cruz - Enterprise,Proposal,200000,EMEA,Growth,2026-03-26,2026-05-10,John Diaz
+OPP-0163,ACC-0054,Allen Inc - Growth,Closed Lost,10000,EMEA,Growth,2026-03-26,2026-06-09,Donna Villa
+OPP-0164,ACC-0071,"Barnett, Walsh and Medina - Starter",Qualification,100000,APAC,Enterprise,2026-03-26,2026-05-22,Amanda Vang
+OPP-0165,ACC-0018,"Evans, Price and Adams - Growth",Closed Lost,50000,EMEA,Growth,2026-03-26,2026-04-17,Kimberly Booth
+OPP-0166,ACC-0065,Fleming PLC - Growth,Demo,200000,APAC,Growth,2026-03-26,2026-04-03,Kevin Vargas
+OPP-0167,ACC-0076,Finley and Sons - Starter,Negotiation,50000,AMER,Enterprise,2026-03-26,2026-06-04,Corey Brown
+OPP-0168,ACC-0062,Riley-Ramirez - Enterprise,Demo,100000,EMEA,Growth,2026-03-26,2026-05-15,Jordan Carroll
+OPP-0169,ACC-0059,Dunn and Sons - Enterprise,Demo,10000,AMER,Enterprise,2026-03-26,2026-04-27,Andrea Ryan
+OPP-0170,ACC-0050,Herrera-Long - Starter,Qualification,25000,APAC,Enterprise,2026-03-26,2026-05-25,Joseph Brown
+OPP-0171,ACC-0061,"Smith, Palmer and Williams - Growth",Closed Won,50000,APAC,Enterprise,2026-03-26,2026-07-21,Ashley Blackwell
+OPP-0172,ACC-0020,Taylor-Cruz - Starter,Proposal,100000,EMEA,Enterprise,2026-03-26,2026-04-07,Ashley Martin
+OPP-0173,ACC-0043,Gray Group - Growth,Closed Lost,5000,AMER,Enterprise,2026-03-26,2026-04-21,Ann Barrett
+OPP-0174,ACC-0059,Dunn and Sons - Growth,Prospecting,200000,AMER,Starter,2026-03-26,2026-04-21,Logan Taylor
+OPP-0175,ACC-0010,Jimenez Group - Growth,Proposal,100000,APAC,Enterprise,2026-03-26,2026-05-06,Jessica Solomon
+OPP-0176,ACC-0051,Jones-Johnson - Growth,Closed Won,200000,EMEA,Enterprise,2026-03-26,2026-04-19,Courtney Carrillo
+OPP-0177,ACC-0049,Burke Ltd - Enterprise,Demo,50000,EMEA,Enterprise,2026-03-26,2026-06-22,Christopher Thompson
+OPP-0178,ACC-0005,"Johnson, Johnston and Rodriguez - Starter",Negotiation,200000,APAC,Enterprise,2026-03-26,2026-04-11,John Michael
+OPP-0179,ACC-0037,"Gonzales, Edwards and Smith - Growth",Qualification,5000,AMER,Enterprise,2026-03-26,2026-04-14,Brandon Jimenez
+OPP-0180,ACC-0013,Rodriguez-Wilson - Enterprise,Proposal,25000,AMER,Starter,2026-03-26,2026-04-24,Christine Bonilla
+OPP-0181,ACC-0006,"Graves, Schneider and Copeland - Growth",Demo,25000,EMEA,Growth,2026-03-26,2026-04-10,Denise Page
+OPP-0182,ACC-0056,Huffman PLC - Enterprise,Qualification,50000,APAC,Enterprise,2026-03-26,2026-05-04,Amanda Neal
+OPP-0183,ACC-0024,Rojas LLC - Starter,Qualification,100000,APAC,Growth,2026-03-26,2026-04-25,Diana Mcbride
+OPP-0184,ACC-0080,Davis Inc - Growth,Closed Won,100000,APAC,Starter,2026-03-26,2026-05-09,Gerald Davis
+OPP-0185,ACC-0030,"Cruz, Jackson and Walls - Growth",Proposal,50000,EMEA,Growth,2026-03-26,2026-06-23,David Flores
+OPP-0186,ACC-0002,Campos-Blair - Growth,Closed Lost,200000,EMEA,Enterprise,2026-03-26,2026-06-07,Nicole Carlson
+OPP-0187,ACC-0021,Gilmore-Phillips - Growth,Prospecting,100000,EMEA,Growth,2026-03-26,2026-05-29,Rodney Sanchez
+OPP-0188,ACC-0055,"Durham, Cook and Wood - Growth",Closed Won,25000,APAC,Starter,2026-03-26,2026-05-11,Randy Randall
+OPP-0189,ACC-0050,Herrera-Long - Starter,Closed Lost,10000,APAC,Growth,2026-03-26,2026-06-09,Stephen Ramsey
+OPP-0190,ACC-0074,Williams-Mora - Growth,Demo,200000,EMEA,Growth,2026-03-26,2026-06-15,Jeffrey Lawrence
+OPP-0191,ACC-0003,Wilson Group - Growth,Closed Lost,25000,EMEA,Starter,2026-03-26,2026-07-02,Amanda Mcclure
+OPP-0192,ACC-0073,"Hernandez, Manning and Hanson - Enterprise",Closed Lost,5000,AMER,Enterprise,2026-03-26,2026-07-05,Melanie Wade
+OPP-0193,ACC-0064,Holden-Cooley - Starter,Closed Lost,100000,APAC,Growth,2026-03-26,2026-05-15,Mr. Daniel Smith
+OPP-0194,ACC-0029,"Miller, Williams and Herrera - Enterprise",Closed Won,25000,AMER,Enterprise,2026-03-26,2026-05-03,Jason Boyer
+OPP-0195,ACC-0018,"Evans, Price and Adams - Enterprise",Closed Won,200000,EMEA,Starter,2026-03-26,2026-04-21,Richard Massey
+OPP-0196,ACC-0040,Gardner-Terry - Starter,Closed Lost,100000,APAC,Growth,2026-03-26,2026-06-04,Adam Thornton
+OPP-0197,ACC-0017,Johnson-Johnson - Growth,Prospecting,200000,AMER,Growth,2026-03-26,2026-05-10,Cory Hernandez
+OPP-0198,ACC-0023,"Richard, Young and Gonzalez - Enterprise",Qualification,25000,AMER,Enterprise,2026-03-26,2026-04-19,Jennifer Miller
+OPP-0199,ACC-0065,Fleming PLC - Growth,Demo,50000,APAC,Growth,2026-03-26,2026-04-24,Matthew Campbell
+OPP-0200,ACC-0044,"Cook, Williams and Taylor - Growth",Closed Lost,5000,APAC,Starter,2026-03-26,2026-04-23,Vanessa Ruiz MD

@@ -1,81 +1,81 @@
 account_id,account_name,region,industry,created_at
-ACC-0001,Small LLC,APAC,SaaS,2025-05-25
-ACC-0002,"Harris, Adams and Martinez",EMEA,HealthTech,2025-11-10
-ACC-0003,Hall-Oneill,EMEA,FinTech,2024-09-11
-ACC-0004,Bennett-Forbes,EMEA,SaaS,2025-01-23
-ACC-0005,Chapman-Smith,APAC,Logistics,2023-08-24
-ACC-0006,Park-Morrison,EMEA,Logistics,2025-08-26
-ACC-0007,Acosta and Sons,AMER,SaaS,2025-06-18
-ACC-0008,Leach PLC,EMEA,SaaS,2025-10-06
-ACC-0009,Dorsey Group,EMEA,FinTech,2024-01-11
-ACC-0010,"Hobbs, Wong and Hatfield",APAC,Logistics,2024-05-04
-ACC-0011,Robertson-Martinez,EMEA,Logistics,2023-07-01
-ACC-0012,"Dyer, Baker and Hanna",EMEA,Logistics,2023-12-01
-ACC-0013,"Roman, Matthews and Phillips",AMER,FinTech,2025-02-11
-ACC-0014,Smith-Green,AMER,Logistics,2023-11-06
-ACC-0015,"Mann, Mendoza and Baxter",AMER,SaaS,2025-11-20
-ACC-0016,"Washington, Harper and Lang",EMEA,eCommerce,2024-10-02
-ACC-0017,Swanson Ltd,AMER,HealthTech,2023-09-24
-ACC-0018,"Smith, Garza and Cohen",EMEA,FinTech,2025-03-13
-ACC-0019,Brown-Adams,AMER,SaaS,2023-07-09
-ACC-0020,"Davidson, Anderson and Jordan",EMEA,eCommerce,2024-08-22
-ACC-0021,Joseph-Raymond,EMEA,HealthTech,2024-11-18
-ACC-0022,Vang and Sons,AMER,Logistics,2025-09-29
-ACC-0023,Carter-Jones,AMER,SaaS,2025-04-04
-ACC-0024,Anderson Group,APAC,eCommerce,2023-12-24
-ACC-0025,"Rosales, Garcia and Jordan",APAC,SaaS,2024-04-24
-ACC-0026,Herring Group,AMER,SaaS,2025-08-11
-ACC-0027,Wells-Delgado,APAC,HealthTech,2024-10-10
-ACC-0028,Jones Inc,APAC,Logistics,2024-03-07
-ACC-0029,"Bauer, French and Hudson",AMER,Logistics,2025-10-17
-ACC-0030,"Paul, Sanchez and Cox",EMEA,SaaS,2025-04-11
-ACC-0031,Oneill Group,EMEA,FinTech,2023-05-05
-ACC-0032,Brown-Gates,AMER,SaaS,2024-11-12
-ACC-0033,"Riggs, Morris and Rose",EMEA,SaaS,2023-09-27
-ACC-0034,Burns-Davis,AMER,HealthTech,2024-06-08
-ACC-0035,"Morris, Norris and Parker",AMER,HealthTech,2023-08-05
-ACC-0036,Smith Group,EMEA,HealthTech,2024-11-09
-ACC-0037,"Reeves, Lewis and Hoffman",AMER,FinTech,2026-01-13
-ACC-0038,"Phillips, Brady and Willis",APAC,HealthTech,2024-07-12
-ACC-0039,Hammond LLC,APAC,SaaS,2023-07-28
-ACC-0040,Moore LLC,APAC,FinTech,2025-07-06
-ACC-0041,"Stewart, Tucker and Peters",APAC,FinTech,2024-10-13
-ACC-0042,Tyler and Sons,EMEA,eCommerce,2025-12-02
-ACC-0043,Hunter Inc,AMER,HealthTech,2024-06-17
-ACC-0044,Ferguson-Warren,APAC,Logistics,2025-11-21
-ACC-0045,Smith PLC,EMEA,HealthTech,2023-10-02
-ACC-0046,"Noble, Rice and Ellis",EMEA,FinTech,2023-10-11
-ACC-0047,Carey and Sons,EMEA,HealthTech,2025-06-03
-ACC-0048,Hall Ltd,AMER,HealthTech,2024-02-18
-ACC-0049,"Taylor, Bailey and Howard",EMEA,FinTech,2024-03-18
-ACC-0050,Padilla-Miller,APAC,HealthTech,2024-02-10
-ACC-0051,"Smith, Jones and Hicks",EMEA,eCommerce,2025-06-12
-ACC-0052,Garcia-May,AMER,eCommerce,2024-11-19
-ACC-0053,Wallace Inc,EMEA,HealthTech,2024-01-01
-ACC-0054,"Ferrell, Mitchell and Wood",EMEA,FinTech,2024-07-25
-ACC-0055,Leon Ltd,APAC,Logistics,2026-01-03
-ACC-0056,Black Inc,APAC,HealthTech,2025-03-28
-ACC-0057,"Huber, Miller and Cannon",APAC,Logistics,2024-06-08
-ACC-0058,Callahan Ltd,AMER,Logistics,2025-03-24
-ACC-0059,Jackson-Howard,AMER,HealthTech,2025-02-23
-ACC-0060,Ho-Hunt,EMEA,FinTech,2024-11-05
-ACC-0061,"Garcia, White and Simon",APAC,eCommerce,2025-08-01
-ACC-0062,Mendoza-Jackson,EMEA,SaaS,2025-12-16
-ACC-0063,Smith PLC,EMEA,FinTech,2023-05-03
-ACC-0064,"Nicholson, Jones and Glass",APAC,FinTech,2025-03-19
-ACC-0065,Oliver-Norton,APAC,eCommerce,2023-08-19
-ACC-0066,Clark-Gutierrez,APAC,SaaS,2025-05-07
-ACC-0067,"Mccarthy, Moore and Torres",AMER,eCommerce,2024-09-03
-ACC-0068,"Jensen, Morris and Chang",APAC,eCommerce,2024-10-24
-ACC-0069,Montes-Dougherty,APAC,HealthTech,2024-04-09
-ACC-0070,Curry LLC,APAC,SaaS,2024-08-07
-ACC-0071,Kent Group,APAC,SaaS,2023-08-16
-ACC-0072,"Snyder, Larson and Rivera",APAC,Logistics,2026-03-21
-ACC-0073,Paul LLC,AMER,HealthTech,2024-06-29
-ACC-0074,"Conway, Finley and Anderson",EMEA,HealthTech,2025-08-24
-ACC-0075,"Moore, Shelton and Lopez",AMER,FinTech,2023-04-01
-ACC-0076,Johnson and Sons,AMER,SaaS,2024-11-12
-ACC-0077,Stewart-Garcia,APAC,HealthTech,2023-09-01
-ACC-0078,"Schmidt, Miranda and Moody",APAC,FinTech,2025-12-18
-ACC-0079,"Valdez, Bryant and Banks",APAC,SaaS,2023-03-29
-ACC-0080,"Castro, Phillips and Gordon",APAC,HealthTech,2024-02-28
+ACC-0001,Donovan-Leon,APAC,SaaS,2023-12-14
+ACC-0002,Campos-Blair,EMEA,HealthTech,2024-09-02
+ACC-0003,Wilson Group,EMEA,FinTech,2023-11-12
+ACC-0004,Lawson Group,EMEA,SaaS,2023-05-15
+ACC-0005,"Johnson, Johnston and Rodriguez",APAC,Logistics,2023-05-27
+ACC-0006,"Graves, Schneider and Copeland",EMEA,Logistics,2024-11-21
+ACC-0007,Gross Group,AMER,SaaS,2024-10-31
+ACC-0008,Taylor Inc,EMEA,SaaS,2023-09-29
+ACC-0009,Delgado Inc,EMEA,FinTech,2024-06-18
+ACC-0010,Jimenez Group,APAC,Logistics,2023-08-16
+ACC-0011,"Kelly, Johnson and Cameron",EMEA,Logistics,2024-06-03
+ACC-0012,"Wilson, Dickerson and Aguilar",EMEA,Logistics,2025-03-15
+ACC-0013,Rodriguez-Wilson,AMER,FinTech,2023-11-15
+ACC-0014,Green-Burns,AMER,Logistics,2023-03-29
+ACC-0015,Foster-George,AMER,SaaS,2024-01-26
+ACC-0016,Mathews Group,EMEA,eCommerce,2025-11-06
+ACC-0017,Johnson-Johnson,AMER,HealthTech,2025-05-27
+ACC-0018,"Evans, Price and Adams",EMEA,FinTech,2024-03-05
+ACC-0019,"Richardson, Leonard and Sanders",AMER,SaaS,2023-10-03
+ACC-0020,Taylor-Cruz,EMEA,eCommerce,2026-01-18
+ACC-0021,Gilmore-Phillips,EMEA,HealthTech,2024-04-20
+ACC-0022,Garcia-Brown,AMER,Logistics,2023-04-14
+ACC-0023,"Richard, Young and Gonzalez",AMER,SaaS,2026-01-25
+ACC-0024,Rojas LLC,APAC,eCommerce,2024-11-29
+ACC-0025,Allen-Ramsey,APAC,SaaS,2023-07-28
+ACC-0026,Brown Ltd,AMER,SaaS,2023-06-07
+ACC-0027,Williams Ltd,APAC,HealthTech,2025-01-12
+ACC-0028,"Smith, Mclaughlin and Smith",APAC,Logistics,2026-03-12
+ACC-0029,"Miller, Williams and Herrera",AMER,Logistics,2024-10-04
+ACC-0030,"Cruz, Jackson and Walls",EMEA,SaaS,2025-05-18
+ACC-0031,Davis-Owens,EMEA,FinTech,2026-03-05
+ACC-0032,"Vargas, Cox and Young",AMER,SaaS,2024-08-14
+ACC-0033,Moreno-Cox,EMEA,SaaS,2025-12-17
+ACC-0034,Walker-Burke,AMER,HealthTech,2024-11-21
+ACC-0035,Rodriguez LLC,AMER,HealthTech,2023-10-14
+ACC-0036,Mckee-Ruiz,EMEA,HealthTech,2024-01-29
+ACC-0037,"Gonzales, Edwards and Smith",AMER,FinTech,2024-02-03
+ACC-0038,"Chavez, Mclaughlin and Davis",APAC,HealthTech,2025-08-14
+ACC-0039,Reyes-Johnston,APAC,SaaS,2024-03-13
+ACC-0040,Gardner-Terry,APAC,FinTech,2025-05-17
+ACC-0041,"Brown, Price and Stark",APAC,FinTech,2025-02-05
+ACC-0042,Smith-Russell,EMEA,eCommerce,2024-04-30
+ACC-0043,Gray Group,AMER,HealthTech,2024-09-05
+ACC-0044,"Cook, Williams and Taylor",APAC,Logistics,2025-03-18
+ACC-0045,Reese-Parker,EMEA,HealthTech,2025-05-23
+ACC-0046,Hall Group,EMEA,FinTech,2025-11-09
+ACC-0047,Montgomery Group,EMEA,HealthTech,2024-08-25
+ACC-0048,"Farrell, Neal and Gomez",AMER,HealthTech,2025-04-24
+ACC-0049,Burke Ltd,EMEA,FinTech,2023-11-12
+ACC-0050,Herrera-Long,APAC,HealthTech,2025-08-12
+ACC-0051,Jones-Johnson,EMEA,eCommerce,2024-09-03
+ACC-0052,Murillo PLC,AMER,eCommerce,2023-11-15
+ACC-0053,"Fields, Sanchez and Hernandez",EMEA,HealthTech,2023-07-28
+ACC-0054,Allen Inc,EMEA,FinTech,2023-08-19
+ACC-0055,"Durham, Cook and Wood",APAC,Logistics,2025-01-10
+ACC-0056,Huffman PLC,APAC,HealthTech,2023-04-20
+ACC-0057,Arnold-Williams,APAC,Logistics,2023-11-22
+ACC-0058,White-Choi,AMER,Logistics,2025-12-25
+ACC-0059,Dunn and Sons,AMER,HealthTech,2026-01-26
+ACC-0060,Howard Ltd,EMEA,FinTech,2025-10-17
+ACC-0061,"Smith, Palmer and Williams",APAC,eCommerce,2024-12-19
+ACC-0062,Riley-Ramirez,EMEA,SaaS,2024-07-26
+ACC-0063,"Martinez, Hill and Harmon",EMEA,FinTech,2025-03-03
+ACC-0064,Holden-Cooley,APAC,FinTech,2024-04-13
+ACC-0065,Fleming PLC,APAC,eCommerce,2026-01-16
+ACC-0066,West-Anderson,APAC,SaaS,2024-08-24
+ACC-0067,Perez Group,AMER,eCommerce,2024-05-30
+ACC-0068,"Jackson, Hernandez and Allen",APAC,eCommerce,2025-02-26
+ACC-0069,"Zimmerman, Velez and Brown",APAC,HealthTech,2023-10-07
+ACC-0070,Young Group,APAC,SaaS,2026-01-03
+ACC-0071,"Barnett, Walsh and Medina",APAC,SaaS,2024-04-03
+ACC-0072,Brady-Bruce,APAC,Logistics,2024-09-03
+ACC-0073,"Hernandez, Manning and Hanson",AMER,HealthTech,2026-01-09
+ACC-0074,Williams-Mora,EMEA,HealthTech,2025-08-10
+ACC-0075,"Morgan, Jarvis and Diaz",AMER,FinTech,2024-10-18
+ACC-0076,Finley and Sons,AMER,SaaS,2024-07-25
+ACC-0077,"Crane, Cannon and Fitzgerald",APAC,HealthTech,2024-04-06
+ACC-0078,Callahan and Sons,APAC,FinTech,2023-05-22
+ACC-0079,Patel LLC,APAC,SaaS,2025-12-23
+ACC-0080,Davis Inc,APAC,HealthTech,2024-04-20
