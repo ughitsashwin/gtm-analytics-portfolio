@@ -1,9 +1,9 @@
-Here is your GTM weekly summary:
+*Executive Summary: GTM Performance Update*
 
-The most critical issue is the severely under-weighted sales pipeline across all regions, posing significant risk to quota attainment.
+Our GTM growth trajectory is significantly at risk due to critically low weighted pipeline coverage across all regions and concerning churn in AMER and APAC.
 
-*   **AMER:** Despite the largest ARR ($2.07M), net MRR change is lowest ($6,478) due to high churn ($28,300). Weighted pipeline coverage is a critical 0.38x against a $2.0M quota, requiring a $3.7M increase.
-*   **APAC:** Highest churn ($29,500) and lowest NRR (89.7%) limit net MRR change to $10,902. Weighted pipeline coverage stands at 0.61x, with a $3.82M gap and a low 46.4% win rate.
-*   **EMEA:** Leads with 102.9% NRR and highest net MRR change ($25,741). However, weighted pipeline coverage is 0.70x, leaving a $2.05M gap, exacerbated by a 44.4% win rate.
+*   **AMER:** Despite a strong 62.5% win rate, weighted pipeline coverage is critically low at 0.38x, creating a $3.7M pipeline gap. High churn of $28.3K contributed to a sub-target NRR of 92.0%.
+*   **APAC:** While holding the largest raw pipeline ($3.68M), a low 46.4% win rate results in only 0.61x weighted coverage and a $3.82M gap. Churn of $29.5K drove NRR to the lowest at 89.7%.
+*   **EMEA:** Leads with 102.9% NRR and $25.7K net MRR change. However, its 44.4% win rate yields only 0.70x weighted pipeline coverage, leaving a $2.05M gap.
 
-**Action:** Urgently address weighted pipeline conversion blockers and implement targeted churn reduction strategies in AMER/APAC, while scaling EMEA's NRR best practices.
+**Recommendation:** Prioritize improving weighted pipeline conversion and filling identified gaps across all regions. Simultaneously, launch targeted retention efforts in AMER and APAC, leveraging top expansion signals to drive NRR.
