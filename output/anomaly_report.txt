@@ -1,0 +1,36 @@
+Here are the anomalies identified from the weekly metric snapshots:
+
+- Metric name and region: NRR, AMER
+  Observed value: 92.0%
+  Why this is concerning: A low NRR indicates that existing customers are not generating enough growth to offset churn and downgrades, impacting long-term revenue stability.
+  Recommended investigation step: Analyze AMER customer churn, downgrades, and expansion rates to understand the drivers of the lower NRR.
+
+- Metric name and region: NRR, APAC
+  Observed value: 89.7%
+  Why this is concerning: An NRR below 90% signals significant customer churn or downgrades, posing a critical threat to recurring revenue and future growth.
+  Recommended investigation step: Immediately deep dive into APAC churn and downgrade reasons, customer health scores, and customer success initiatives.
+
+- Metric name and region: Pipeline coverage (weighted), AMER
+  Observed value: 0.38x
+  Why this is concerning: Critical low weighted pipeline coverage means there is insufficient qualified pipeline to meet sales targets, risking significant revenue shortfall.
+  Recommended investigation step: Evaluate AMER sales team's lead generation activities, qualification process, and pipeline stage conversion rates to identify bottlenecks.
+
+- Metric name and region: Pipeline coverage (weighted), APAC
+  Observed value: 0.61x
+  Why this is concerning: Low weighted pipeline coverage suggests a potential future revenue gap if the current pipeline does not convert at expected rates.
+  Recommended investigation step: Review APAC pipeline health, deal velocity, and qualification criteria to ensure high-quality leads are entering the sales funnel.
+
+- Metric name and region: Pipeline coverage (weighted), EMEA
+  Observed value: 0.70x
+  Why this is concerning: Low weighted pipeline coverage suggests a potential future revenue gap if the current pipeline does not convert at expected rates.
+  Recommended investigation step: Review EMEA pipeline health, deal velocity, and qualification criteria to ensure high-quality leads are entering the sales funnel.
+
+- Metric name and region: Churn MRR vs New MRR, APAC
+  Observed value: Churn MRR $29,500.00, New MRR $17,800.00
+  Why this is concerning: Churn MRR exceeding new MRR indicates that the region is losing more revenue from existing customers than it's gaining from new ones, leading to negative net growth.
+  Recommended investigation step: Analyze the specific reasons for high churn in APAC and assess the effectiveness of new customer acquisition efforts and customer retention strategies.
+
+- Metric name and region: Churn MRR vs New MRR, AMER
+  Observed value: Churn MRR $28,300.00, New MRR $21,000.00
+  Why this is concerning: Churn MRR exceeding new MRR indicates that the region is losing more revenue from existing customers than it's gaining from new ones, leading to negative net growth.
+  Recommended investigation step: Analyze the specific reasons for high churn in AMER and assess the effectiveness of new customer acquisition efforts and customer retention strategies.

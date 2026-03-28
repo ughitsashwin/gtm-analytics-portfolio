@@ -1,0 +1,9 @@
+Here is your GTM weekly summary:
+
+The most critical issue is the severely under-weighted sales pipeline across all regions, posing significant risk to quota attainment.
+
+*   **AMER:** Despite the largest ARR ($2.07M), net MRR change is lowest ($6,478) due to high churn ($28,300). Weighted pipeline coverage is a critical 0.38x against a $2.0M quota, requiring a $3.7M increase.
+*   **APAC:** Highest churn ($29,500) and lowest NRR (89.7%) limit net MRR change to $10,902. Weighted pipeline coverage stands at 0.61x, with a $3.82M gap and a low 46.4% win rate.
+*   **EMEA:** Leads with 102.9% NRR and highest net MRR change ($25,741). However, weighted pipeline coverage is 0.70x, leaving a $2.05M gap, exacerbated by a 44.4% win rate.
+
+**Action:** Urgently address weighted pipeline conversion blockers and implement targeted churn reduction strategies in AMER/APAC, while scaling EMEA's NRR best practices.

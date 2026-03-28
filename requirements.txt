@@ -1,0 +1,12 @@
+# Core data stack
+duckdb>=0.10.0
+pandas>=2.0.0
+faker>=24.0.0
+
+# Phase 3 — AI/LLM
+anthropic>=0.25.0
+python-dotenv>=1.0.0
+google-generativeai>=0.8.0
+
+# Phase 5 — Web app (we'll install these when we get there)
+# flask>=3.0.0
